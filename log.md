@@ -70,3 +70,15 @@
 59. How could you implement moveLeft animation?
 60. How would you implement currying for any functions?
 61. All String Questions in CTCI
+62. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+63. [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)
+64. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
+65. [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)
+66. [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+67. [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
+68. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+69. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
+70. [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
+71. [Common Child](https://www.hackerrank.com/challenges/common-child/problem)
+
+
