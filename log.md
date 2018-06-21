@@ -80,5 +80,5 @@
 69. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
 70. [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
 71. [Common Child](https://www.hackerrank.com/challenges/common-child/problem)
-
+72. [Joins](http://www.zentut.com/sql-tutorial/sql-union/)
 
