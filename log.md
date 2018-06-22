@@ -11,6 +11,26 @@
 **What did I learn**:
 1. [JavaScript Testing - Unit Tests, TDD, BDD, IDK](https://www.youtube.com/watch?v=Fjc_cwPDbNY)
 2. [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://www.youtube.com/watch?v=MLTRHc5dk6s)
+3. [What is a primary key?](http://katemats.com/interview-questions/)
+4. You know that data is in a particular table but you don’t know what the schema is for that table. How could you figure it out?
+5. What are some different kinds of joins?  How do they work? Can you give examples?
+6. What is the difference between GROUP BY and ORDER BY?
+7. [Joins](http://www.zentut.com/sql-tutorial/sql-union/)
+8. SQL Interview Questions
+
+### Day 1: June 22, 2018 
+
+**Today's Progress**: Worked on databases, coding and revising data structures
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** 
+
+**What did I learn**:
+1. Nth Highest salary
+2. Indexes 
+3. Basic SQL Joins
+4. SQL Interview Questions
 3. Module 1: Cloud Computing with AWS
 4. [LinkedList](https://github.com/gladiatorAsh/javascript-algorithms)
 5. [Trees = BFS and DFS](https://github.com/gladiatorAsh/javascript-algorithms)
@@ -37,10 +57,6 @@
 26. What are you working on?
 27. What do you like about it?
 28. What is the work life like?
-29. [What is a primary key?](http://katemats.com/interview-questions/)
-30. You know that data is in a particular table but you don’t know what the schema is for that table. How could you figure it out?
-31. What are some different kinds of joins?  How do they work? Can you give examples?
-32. What is the difference between GROUP BY and ORDER BY?
 33. Write a query to delete duplicate rows from a table.
 34. Describe a schema and ask the candidate to query the table in lots of different ways. Try to pick a schema from one of your databases if possible – it is always nice to use real world data. // If you can’t come up with one an employee or student database are easy to grok examples.
 35. [List employees (names) who have a bigger salary than their boss](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/)
@@ -80,5 +96,5 @@
 69. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)
 70. [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
 71. [Common Child](https://www.hackerrank.com/challenges/common-child/problem)
-72. [Joins](http://www.zentut.com/sql-tutorial/sql-union/)
+
 
