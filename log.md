@@ -66,19 +66,19 @@
 **Link to work:** None
 
 **What did I learn**:
-1.[LinkedList](https://github.com/gladiatorAsh/javascript-algorithms)
-2.[Strings- A Levenshtein Distance - minimum edit distance between two sequences]
-3.[Strings- Hamming Distance - number of positions at which the symbols are different]
-4.Ideas for improving an existing product.
-5.Write a query to delete duplicate rows from a table.
-6.List all departments along with the total salary there
-7.[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
-8.[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
-9.Solve problems on traversal
-10.Find pairs in binary tree whose sum equals value
-11.Work on ashutoshsingh.com
-12.Add post on performance to LinkedIN
-13.Work on Hashset problems
+1. [LinkedList](https://github.com/gladiatorAsh/javascript-algorithms)
+2. [Strings- A Levenshtein Distance - minimum edit distance between two sequences]
+3. [Strings- Hamming Distance - number of positions at which the symbols are different]
+4. Ideas for improving an existing product.
+5. Write a query to delete duplicate rows from a table.
+6. List all departments along with the total salary there
+7. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+8. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
+9. Solve problems on traversal
+10. Find pairs in binary tree whose sum equals value
+11. Work on ashutoshsingh.com
+12. Add post on performance to LinkedIN
+13. Work on Hashset problems
 
 
 
