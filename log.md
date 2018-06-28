@@ -57,7 +57,7 @@
 26. [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
 27. [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 
-### Day 2: June 26, 2018 
+### Day 2: June 27, 2018 
 
 **Today's Progress**: Coding and revising data structures
 
@@ -79,6 +79,7 @@
 11. Work on ashutoshsingh.com
 12. Add post on performance to LinkedIN
 13. Work on Hashset problems
+14. [Revise Data Structures](https://www.interviewcake.com)
 
 
 
