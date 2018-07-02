@@ -72,15 +72,31 @@
 4. Ideas for improving an existing product.
 5. Write a query to delete duplicate rows from a table.
 6. List all departments along with the total salary there
-7. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
-8. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
-9. Solve problems on traversal
-10. Find pairs in binary tree whose sum equals value
-11. Work on ashutoshsingh.com
-12. Add post on performance to LinkedIN
-13. Work on Hashset problems
-14. [Revise Data Structures](https://www.interviewcake.com)
+7. Find pairs in binary tree whose sum equals value
+8. Work on ashutoshsingh.com
+9. Add post on performance to LinkedIN
+10. Work on Hashset problems
+11. [Revise Data Structures](https://www.interviewcake.com)
 
+### Day 3: July 2, 2018 
+
+**Today's Progress**: Coding and reading on the net
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+1. [Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+2. [Automating Image Optimization - Baseline JPG and Progressive JPG](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/)
+3. Updated [ashutoshysingh.com](www.ashutoshysingh.com)
+4. [Core JavaScript](https://medium.freecodecamp.org/learn-these-core-javascript-concepts-in-just-a-few-minutes-f7a16f42c1b0)
+5. [Web Performance Optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
+6. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+7. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
+8. Solve problems on traversal
+9.[Revise Data Structures](https://www.interviewcake.com)
+ 
 
 
 
