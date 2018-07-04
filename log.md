@@ -90,12 +90,66 @@
 1. [Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 2. [Automating Image Optimization - Baseline JPG and Progressive JPG](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/)
 3. Updated [ashutoshysingh.com](www.ashutoshysingh.com)
-4. [Core JavaScript](https://medium.freecodecamp.org/learn-these-core-javascript-concepts-in-just-a-few-minutes-f7a16f42c1b0)
-5. [Web Performance Optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
-6. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
-7. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
-8. Solve problems on traversal
-9.[Revise Data Structures](https://www.interviewcake.com)
+
+
+### Day 4: July 3, 2018 
+
+**Today's Progress**: Coding and reading on the net
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+1. Updated [ashutoshysingh.com](www.ashutoshysingh.com)
+2. [Web Performance Optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
+
+
+### Day 4: July 4, 2018 
+
+**Today's Progress**: Coding and reading on the net
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+1. [Core JavaScript](https://medium.freecodecamp.org/learn-these-core-javascript-concepts-in-just-a-few-minutes-f7a16f42c1b0)
+2. [Web Performance Optimization](https://classroom.udacity.com/courses/ud884/lessons/1464158641/concepts/14734291220923)
+3. [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+4. [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
+5. Solve problems on traversal
+6. [Revise Data Structures](https://www.interviewcake.com)
+7. [Into to jQuery](https://classroom.udacity.com/courses/ud245)
+8. [JavaScript Testing](https://classroom.udacity.com/courses/ud549)
+9. [Object oriented JavaScript](https://classroom.udacity.com/courses/ud015)
+10. [JavaScript Basics](https://classroom.udacity.com/courses/ud804)
+11. [Front End Frameworks](https://classroom.udacity.com/courses/ud894)
+12. [JavaScript Info In Detail](https://javascript.info)
+13. [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+14. [MDN JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+### Day 5: July 5, 2018 
+
+**Today's Progress**: Coding and reading on the net
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+
+1. [W3Schools JS](https://www.w3schools.com/jS/default.asp)
+2. [Eloquent JavaScript](http://eloquentjavascript.net)
+3. [Sexy JS](http://javascriptissexy.com)
+4. [Some JS Topics](http://www.learn-js.org)
+5. [JavaScript topics](https://learnjavascript.today)
+6. [Egghead](https://egghead.io)
+7. [Scotch](https://scotch.io)
+8. [Coderbyte](https://coderbyte.com)
+
+
+
  
 
 
