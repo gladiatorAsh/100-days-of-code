@@ -172,6 +172,18 @@
 1. Service Worker Implementation at www.ashutoshysingh.com
 2. Browser Fingerprinting
 
+### Day 7: July 7, 2018 
+
+**Today's Progress**: Added logos,favicon
+
+**Thoughts:** 
+
+**Link to work:** www.ashutoshysingh.com
+
+**What did I learn**:
+1. Added favicons and updated manifest
+2. 
+
 
  
 
