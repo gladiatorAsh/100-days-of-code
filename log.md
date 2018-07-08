@@ -148,6 +148,29 @@
 7. [Scotch](https://scotch.io)
 8. [Coderbyte](https://coderbyte.com)
 
+### Day 6: July 6, 2018 
+
+**Today's Progress**: Basic Java Coding
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+1. Linked Lists - Finding Loop and Finding Start of loop
+2. HashSet
+
+### Day 7: July 7, 2018 
+
+**Today's Progress**: Understanding service worker and fingerprinting
+
+**Thoughts:** 
+
+**Link to work:** None
+
+**What did I learn**:
+1. Service Worker Implementation at www.ashutoshysingh.com
+2. Browser Fingerprinting
 
 
  
