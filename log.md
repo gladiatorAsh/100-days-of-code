@@ -200,7 +200,23 @@
 6. [Scaling Systems to millions of users](https://www.youtube.com/watch?v=yPF94QiI2qk)
 7. [Prepared 10 year plan](https://www.youtube.com/watch?v=Ap2uWsJV25w)
 8. Question lookup from InterviewCake on Arrays and Strings
-9. CTCI String and Array question lookup
+
+### Day 10: July 10, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Question lookup from CTCI String and Arrays
+2. [Using Code Coverage to remove redundant code](https://www.youtube.com/watch?v=_bzqF05xsC4)
+3. Question lookup from CTCI HashTable
+4. Question lookup from InterviewCake on Trees
+5. DS like Trees and Traversals
+6. Memory Management in Python, JS
+7. Understanding event loop in node JS
+8. SQL revision
 
 
 
