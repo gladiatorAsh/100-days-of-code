@@ -172,7 +172,7 @@
 1. Service Worker Implementation at www.ashutoshysingh.com
 2. Browser Fingerprinting
 
-### Day 7: July 7, 2018 
+### Day 8: July 8, 2018 
 
 **Today's Progress**: Added logos,favicon
 
@@ -182,7 +182,26 @@
 
 **What did I learn**:
 1. Added favicons and updated manifest
-2. 
+
+### Day 9: July 9, 2018 
+
+**Today's Progress**: Revised basics of DS, System Design.
+
+**Thoughts:** Brain restarted today - cover the basics to clear screening rounds or will never get onsite. Look at fullstack positions only for now as prep still on for backend. Focus on smoothing over basics until next round of interviews. SQL question to find max salary of a dept got tricked by questioner.
+
+**Link to work:** 
+
+**What did I learn**:
+1. Read upon GCP,GFS,BigTable,MapReduce
+2. Memory Management in Java
+3. Linux basic commands - compgen,dirs,disown, let,cat,whatis,man,repquota,chmod,difference between chmod 777 and chmod 755,chown,telnet
+4. Bloom Filters and their usage
+5. Basic DS like Hash Tables, Arrays, Dynamic Arrays and their usage
+6. [Scaling Systems to millions of users](https://www.youtube.com/watch?v=yPF94QiI2qk)
+7. [Prepared 10 year plan](https://www.youtube.com/watch?v=Ap2uWsJV25w)
+8. Question lookup from InterviewCake on Arrays and Strings
+9. CTCI String and Array question lookup
+
 
 
  
