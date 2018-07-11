@@ -212,6 +212,7 @@
 1. Linked List questions practice
 2. [Using Code Coverage to remove redundant code](https://www.youtube.com/watch?v=_bzqF05xsC4)
 3. Memory Management in Python, JS
+4. [Object Oriented JavaScript](https://classroom.udacity.com/courses/ud015)
 
 ### Day 11: July 11, 2018 
 
