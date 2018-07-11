@@ -225,11 +225,43 @@
 1. Question lookup from CTCI String and Arrays
 2. Question lookup from CTCI HashTable
 3. Question lookup from InterviewCake on Trees
-4. DS like Trees and Traversals
+4. DS like Trees and Traversals - BFS, DFS
 5. Understanding event loop in node JS
 6. SQL revision
 7. Linked List question practice
- 
+8. [What Led Amazon to its Own Microservices Architecture](http://thenewstack.io/led-amazon-microservices-architecture/)
+9. [To Compress Or Not To Compress, That Was Uber's Question](https://eng.uber.com/trip-data-squeeze/)
+10.[Tinder: How Does One Of The Largest Recommendation Engines Decide Who You'll See Next?](http://highscalability.com/blog/2016/1/27/tinder-how-does-one-of-the-largest-recommendation-engines-de.html)
+
+
+### Day 12: July 12, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Graph algorithms - BFS, DFS, Shortest path, Longest Path, Cycle Detection
+2. Queues and Stacks
+3. OOPS principles
+4. SOLID
+5. Revise Distributed Systems
+6. [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+7. [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+
+### Day 12: July 12, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Microservices
+2. Circle Back with CTCI
+
+
 
 
 
