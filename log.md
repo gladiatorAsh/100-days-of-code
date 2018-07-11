@@ -209,17 +209,25 @@
 **Link to work:** 
 
 **What did I learn**:
-1. Question lookup from CTCI String and Arrays
+1. Linked List questions practice
 2. [Using Code Coverage to remove redundant code](https://www.youtube.com/watch?v=_bzqF05xsC4)
-3. Question lookup from CTCI HashTable
-4. Question lookup from InterviewCake on Trees
-5. DS like Trees and Traversals
-6. Memory Management in Python, JS
-7. Understanding event loop in node JS
-8. SQL revision
+3. Memory Management in Python, JS
 
+### Day 11: July 11, 2018 
 
+**Today's Progress**: 
 
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Question lookup from CTCI String and Arrays
+2. Question lookup from CTCI HashTable
+3. Question lookup from InterviewCake on Trees
+4. DS like Trees and Traversals
+5. Understanding event loop in node JS
+6. SQL revision
+7. Linked List question practice
  
 
 
