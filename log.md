@@ -292,7 +292,9 @@
 8. Understanding event loop in node JS
 9. SQL revision
 10. Graph, Tree problems
-
+11. [Understanding Python bytecode](https://www.youtube.com/watch?v=weBXlLF6an8)
+12. [The React Productivity Revolution](https://www.youtube.com/watch?v=iaJYj0l4LTY)
+13. [Strong Engineering Culture, Strong Product Culture](https://www.youtube.com/watch?v=ALsXRLrQBcU)
 
 
 
