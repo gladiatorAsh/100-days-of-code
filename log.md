@@ -284,19 +284,27 @@
 **What did I learn**:
 1. What are Microservices
 2. [Object Oriented JavaScript](https://classroom.udacity.com/courses/ud015)
-3. OOPS principles
-4. SOLID
-5. Revise Distributed Systems
-6. [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
-7. [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
-8. Understanding event loop in node JS
-9. SQL revision
-10. Graph, Tree problems
-11. [Understanding Python bytecode](https://www.youtube.com/watch?v=weBXlLF6an8)
-12. [The React Productivity Revolution](https://www.youtube.com/watch?v=iaJYj0l4LTY)
-13. [Strong Engineering Culture, Strong Product Culture](https://www.youtube.com/watch?v=ALsXRLrQBcU)
+3. [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+4. [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+5. Graph, Tree problems
+6. Triplebyte Quiz
 
+### Day 16: July 16, 2018 
 
+**Today's Progress**: 
 
+**Thoughts:** 
+**Link to work:** 
 
-
+**What did I learn**:
+1. OOPS principles
+2. SOLID
+3. Revise Distributed Systems
+4. JS Design Patterns
+5. JS Algorithms
+6. Graph, Tree problems
+7. [Understanding Python bytecode](https://www.youtube.com/watch?v=weBXlLF6an8)
+8. [The React Productivity Revolution](https://www.youtube.com/watch?v=iaJYj0l4LTY)
+9. [Strong Engineering Culture, Strong Product Culture](https://www.youtube.com/watch?v=ALsXRLrQBcU)
+10. Understanding event loop in node JS
+11. SQL revision
