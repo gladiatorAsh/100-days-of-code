@@ -298,6 +298,27 @@
 
 **What did I learn**:
 1. OOPS principles
+
+### Day 17: July 17, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. [Serverless Revealed](https://www.youtube.com/watch?v=4v67eKYJBG4)
+* Event Driven Architecture, Functions as service
+
+### Day 18: July 18, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. OOPS Principles
 2. SOLID
 3. Revise Distributed Systems
 4. JS Design Patterns
@@ -308,3 +329,4 @@
 9. [Strong Engineering Culture, Strong Product Culture](https://www.youtube.com/watch?v=ALsXRLrQBcU)
 10. Understanding event loop in node JS
 11. SQL revision
+
