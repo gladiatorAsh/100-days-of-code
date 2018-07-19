@@ -318,6 +318,17 @@
 **Link to work:** 
 
 **What did I learn**:
+1. [Processing 100M+ Images Per Month With DEEP LEARNING](https://www.youtube.com/watch?v=Qw3yPtPHLBc) - Very Useful for Why Kafka
+2. Tree questions
+
+### Day 19: July 19, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
 1. OOPS Principles
 2. SOLID
 3. Revise Distributed Systems
