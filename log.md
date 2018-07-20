@@ -329,15 +329,37 @@
 **Link to work:** 
 
 **What did I learn**:
-1. OOPS Principles
-2. SOLID
+1. Revise OOPS Principles
+2. Revise SOLID
 3. Revise Distributed Systems
 4. JS Design Patterns
 5. JS Algorithms
-6. Graph, Tree problems
+6. Revise Graph, Tree problems
 7. [Understanding Python bytecode](https://www.youtube.com/watch?v=weBXlLF6an8)
 8. [The React Productivity Revolution](https://www.youtube.com/watch?v=iaJYj0l4LTY)
 9. [Strong Engineering Culture, Strong Product Culture](https://www.youtube.com/watch?v=ALsXRLrQBcU)
 10. Understanding event loop in node JS
 11. SQL revision
+12. Integrated Cloudfront and S3 for storing static images but reverted as they do not have proper HTTPS certificates
+13. Read upon various business ideas- Fisheries, Vegetables, Poultry, Tobacco, Gutka  
+
+### Day 20: July 20, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Integrated treo with website to test lighthouse stats
+2. [Integrated puppeteer for open source version for testing chrome dev tools on websites](https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a)
+3. [Looked at sentry for error tracking](https://sentry.io/)
+4. Read [Stateless end to end testing for web](https://hackernoon.com/stateless-end-to-end-testing-for-web-apps-7b54855f3c48)
+5. Enjoyed reading [Visually designing state in JS](https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b)
+6. [What I learned from analyzing more than 80 job rejections with Python](https://medium.freecodecamp.org/what-i-learned-from-analyzing-more-than-80-job-rejections-with-python-11044ee6927b)
+7. Read about [using vector vs raster images](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization)
+8. Read about [webfont optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization) as that is causing the most performance issues
+9. Tree, Graph problems
+10. Object Oriented JS
+
 
