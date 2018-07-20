@@ -361,5 +361,7 @@
 8. Read about [webfont optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization) as that is causing the most performance issues
 9. Tree, Graph problems
 10. Object Oriented JS
+11. [Continuous integration CircleCI vs TravisCI vs Jenkins](https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5)
+12. [How to make sure your Progressive Web App keeps its Lighthouse audit score](https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a)
 
 
