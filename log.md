@@ -385,7 +385,9 @@
 **Link to work:** 
 
 **What did I learn**:
-1. Revision of trees and graphs
+1. Solving trees and graphs
 2. Revision of JS
 3. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
-4. CTCL 
+4. [Learning Tries](https://leetcode.com/explore/learn/card/trie/)
+5. [Learning Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
+6. [Learning Hash Map](https://leetcode.com/explore/learn/card/hash-table/)
