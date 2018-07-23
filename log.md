@@ -365,7 +365,7 @@
 12. [How to make sure your Progressive Web App keeps its Lighthouse audit score](https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a)
 
 
-### Day 21: July 20, 2018 
+### Day 21: July 21, 2018 
 
 **Today's Progress**: 
 
@@ -375,3 +375,17 @@
 **What did I learn**:
 1. Trees and Graphs
 2. Object Oriented JS
+
+
+### Day 22: July 23, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. Revision of trees and graphs
+2. Revision of JS
+3. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
+4. CTCL 
