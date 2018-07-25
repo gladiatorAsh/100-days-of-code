@@ -388,6 +388,19 @@
 1. Solving trees and graphs
 2. Revision of JS
 3. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
+
+### Day 22: July 23, 2018 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to work:** 
+
+**What did I learn**:
+1. [Lighthouse and Puppeteer - HTTP203](https://www.youtube.com/watch?v=dR_J4X416hg)
+2. [jQuery & querySelector - Supercharged](https://www.youtube.com/watch?v=s0vg_H9hBuU)
+3. Revision
 4. [Learning Tries](https://leetcode.com/explore/learn/card/trie/)
 5. [Learning Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 6. [Learning Hash Map](https://leetcode.com/explore/learn/card/hash-table/)
+
