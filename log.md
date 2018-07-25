@@ -389,7 +389,7 @@
 2. Revision of JS
 3. [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
 
-### Day 22: July 23, 2018 
+### Day 23: July 24, 2018 
 
 **Today's Progress**: 
 
@@ -403,4 +403,18 @@
 4. [Learning Tries](https://leetcode.com/explore/learn/card/trie/)
 5. [Learning Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 6. [Learning Hash Map](https://leetcode.com/explore/learn/card/hash-table/)
+7. [Why Some Web APIs Are Not RESTful and What Can Be Done About It](https://www.infoq.com/articles/web-api-rest)
+8. [SOAP vs. REST: A Look at Two Different API Styles](https://www.upwork.com/hiring/development/soap-vs-rest-comparing-two-apis/)
+9. [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+10. [What is a REST API?](https://www.quora.com/What-is-a-REST-API)
+11. [REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
+12. [REST API — Back to Basics](https://restful.io/rest-api-back-to-basics-c64f282d972)
+13. [What is a REST API?](http://idratherbewriting.com/2015/08/28/all-about-rest-apis/)
+14. [What is a REST API design?](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
+15. [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)
+16. [What Is REST?](https://www.restapitutorial.com/lessons/whatisrest.html)
+17. [Do you know what a REST API is?](https://www.sitepoint.com/developers-rest-api/)
+18. [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+19. [What is REST](https://restfulapi.net/)
+20. [Learn REST: A Tutorial](http://rest.elkstein.org/)
 
