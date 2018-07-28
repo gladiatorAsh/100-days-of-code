@@ -418,3 +418,19 @@
 19. [What is REST](https://restfulapi.net/)
 20. [Learn REST: A Tutorial](http://rest.elkstein.org/)
 
+### Day 24: July 25, 2018 
+1. Coding Problems
+
+### Day 25: July 26, 2018 
+1. Coding Problems
+
+### Day 26: July 27, 2018 
+1. Coding test
+2. Problems related to binary trees
+
+### Day 27: July 28, 2018 
+1.[Understanding truthy and falsy in JS](https://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/)
+2.[Basic tricky questions](https://gist.github.com/gladiatorAsh/034055c552f1ef08358a7a792b31f0f6)
+
+
+
