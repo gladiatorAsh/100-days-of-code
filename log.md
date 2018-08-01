@@ -438,6 +438,26 @@
 ### Day 29: Aug 1, 2018 
 1. Learning docker and containerization
 2. [A real web dev interview](https://www.youtube.com/watch?v=S6lwJ6Rixnc)
-
-
-
+3. Multithreading in Java
+4. Reading text file in Java
+5. Java HashMap
+6. Spring boot Interview Questions
+7. Sorting Hashmap by values
+8. Min/Max Heap
+9. TreeMap
+10. Diff between div > p {}, div + p {} ,div ~p {}
+11. ES6 ways to iterate over a list
+12. NetAPI
+13. Mobile vs Web Optimization
+14. REST vs SOAP
+15. What is Web 2.0?
+16. Explain Microservices pattern and API Gateway.
+17. Explain Circuitbreaker pattern
+18. What is facade pattern and a real world example for it.
+19. What are web sockets and how do they differ from HTTP?
+20. Interview at AirDeck
+21. Message to Vivek, Gurnoor, Internoplaaza, LinkediN, Ravi, and Gaurav.
+22. Solving Problems from Leetcode, CTCL
+23. Solve Hackerrank test
+24. Apply to 100 places today
+25. Solve front-end interview Questions and Make notes.
