@@ -432,5 +432,11 @@
 1.[Understanding truthy and falsy in JS](https://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/)
 2.[Basic tricky questions](https://gist.github.com/gladiatorAsh/034055c552f1ef08358a7a792b31f0f6)
 
+### Day 28: July 31, 2018 
+1. Resolving aria-label and accessibility issues with website using aXe extension.
+
+### Day 29: Aug 1, 2018 
+1. 
+
 
 
