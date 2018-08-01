@@ -436,7 +436,8 @@
 1. Resolving aria-label and accessibility issues with website using aXe extension.
 
 ### Day 29: Aug 1, 2018 
-1. 
+1. Learning docker and containerization
+2. [A real web dev interview](https://www.youtube.com/watch?v=S6lwJ6Rixnc)
 
 
 
