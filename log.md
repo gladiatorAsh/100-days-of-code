@@ -461,3 +461,5 @@
 23. Solve Hackerrank test
 24. Apply to 100 places today
 25. Solve front-end interview Questions and Make notes.
+26. Database Design
+27. Concurrent HashMap, Synchronized keyword
