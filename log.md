@@ -466,3 +466,6 @@
 8. Sorting Hashmap by values
 9. Min/Max Heap
 10. TreeMap
+11. [Choose a license](https://choosealicense.com/licenses/)
+12. NovoResume
+13. Chatbot for my site
