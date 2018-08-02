@@ -441,10 +441,6 @@
 3. Multithreading in Java
 4. Reading text file in Java
 5. Java HashMap
-6. Spring boot Interview Questions
-7. Sorting Hashmap by values
-8. Min/Max Heap
-9. TreeMap
 10. Diff between div > p {}, div + p {} ,div ~p {}
 11. ES6 ways to iterate over a list
 12. NetAPI
@@ -457,9 +453,16 @@
 19. What are web sockets and how do they differ from HTTP?
 20. Interview at AirDeck
 21. Message to Vivek, Gurnoor, Internoplaaza, LinkediN, Ravi, and Gaurav.
-22. Solving Problems from Leetcode, CTCL
-23. Solve Hackerrank test
-24. Apply to 100 places today
-25. Solve front-end interview Questions and Make notes.
-26. Database Design
-27. Concurrent HashMap, Synchronized keyword
+
+
+### Day 30: Aug 2, 2018 
+1. Solving Problems from Leetcode, CTCL
+2. Solve Hackerrank test
+3. Apply to 100 places today
+4. Solve front-end interview Questions and Make notes.
+5. Database Design
+6. Concurrent HashMap, Synchronized keyword
+7. Spring boot Interview Questions
+8. Sorting Hashmap by values
+9. Min/Max Heap
+10. TreeMap
