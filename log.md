@@ -469,3 +469,4 @@
 11. [Choose a license](https://choosealicense.com/licenses/)
 12. NovoResume
 13. Chatbot for my site
+14. [A Day in a Software Engineer's life](https://www.youtube.com/watch?v=UK2000bGHio)
