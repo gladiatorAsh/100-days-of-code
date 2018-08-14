@@ -470,3 +470,15 @@
 12. NovoResume
 13. Chatbot for my site
 14. [A Day in a Software Engineer's life](https://www.youtube.com/watch?v=UK2000bGHio)
+
+### Day 31: Aug 13, 2018
+1. Understanding React components, UI updates, session maintenance, working with backend for continuous updates.
+2. Working on Graph and Tree problems
+3. Working on DP problems.
+
+### Day 32: Aug 14, 2018
+1. Working on Graph and Tree problems
+2. Working on DP problems.
+
+
+
