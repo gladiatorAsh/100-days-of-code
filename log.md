@@ -491,6 +491,15 @@
 3. Working to solve React project.
 
 
+### Day 35: Sep 7, 2018
+1. Review HashSet, HashMap, Queue, Stack basics
+2. Working on previously unsolved problems - Set of Cards, Greedy Truck, Tree Set  
+3. Reading on new Chrome update and the www vs no www group. Understood CNAME and usage of www for subdomains and caching.
+4. Revising old web notes on ES6 and jQuery
+5. Making new notes on hot C# interview questions and Node.JS Security practices
+6. Revising algos on greedy algorithms, knapsack and DP
+
+
 
 
 
