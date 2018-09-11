@@ -499,6 +499,35 @@
 5. Making new notes on hot C# interview questions and Node.JS Security practices
 6. Revising algos on greedy algorithms, knapsack and DP
 
+### Day 35: Sep 10, 2018
+      
+1. Review old notes on web, dbs, c#
+2. Revise algos
+3. Handle design questions onsite notes - Tushar Roy (YT), Success in Tech (YT)
+4. [Design Facebook](https://sketchboard.me/hBdsDFEtAnJh#/switchteam)
+5. [Design Twitter](https://sketchboard.me/pBdsL4mQfeDD#/)
+6. Design TinyURL
+7. Think on old mistakes, revise and go
+8. [Flexbox vs CSS](https://medium.com/turo-engineering/flexbox-vs-css-grid-6a94547b6c06)
+9. Subsets, Longest Palindromic string
+
+## Links
+      1. System Primer(https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/social_graph#design-the-data-structures-for-a-social-network)
+      2. https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+      3. https://medium.freecodecamp.org/flexbox-the-animated-tutorial-263e7d8864e5
+      4. https://blog.usejournal.com/the-web-push-checklist-3d7ee1225901
+      5. https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4
+      6. https://medium.freecodecamp.org/how-to-cultivate-great-communication-skills-as-a-dev-and-kick-bad-habits-to-the-curb-d62a075700f5
+      7. https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+      8. https://dev.to/nickparsons/javascript-promises-and-why-asyncawait-wins-the-battle-1g8a
+      9. https://medium.freecodecamp.org/building-an-api-with-lambdas-and-api-gateway-11254e23b703
+      10. https://medium.freecodecamp.org/everything-you-need-to-know-to-get-started-in-react-11311ae997cb
+      11. https://www.tpeczek.com/2017/12/push-notifications-and-aspnet-core-part.html
+      12. https://www.quora.com/What-is-fan-out-write-and-fan-out-read-in-scalability
+      13. https://en.wikipedia.org/wiki/Object_request_broker
+      14. https://en.wikipedia.org/wiki/Celery_(software)
+      15. https://www.pubnub.com/learn/glossary/what-is-publish-subscribe/
+      16. https://www.pubnub.com/learn/glossary/what-is-fan-out-software/
 
 
 
