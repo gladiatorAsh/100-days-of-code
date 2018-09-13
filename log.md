@@ -529,6 +529,22 @@
       15. https://www.pubnub.com/learn/glossary/what-is-publish-subscribe/
       16. https://www.pubnub.com/learn/glossary/what-is-fan-out-software/
 
+   ### Day 36: Sep 12, 2018
+      1. [Partition List](https://leetcode.com/problems/partition-list/description/)
+      2. [Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/description/)
+      3. Had forgotten how to use regexes in Java. Relearnt the hard way.
+      4. Revise Trie Data Structure (https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=1s)
+      5. Rotate List. Just connect the head and tail. Walk through the list n times and disconnect again.
+     
+   ### Day 37: Sep 13, 2018
+      1. [Generators in Java](https://www.codeproject.com/Articles/793374/Generators-with-Java)
+      2. [Streams in Java](https://www.conductor.com/nightlight/using-java-8-streams-to-process-large-amounts-of-data/)
+      3. [Multithreading](CTCI)
+      4. [Data structures](Leetcode)
+      5. [Learn to write node modules](https://github.com/ralucas/node-zillow)
+      6. [Get starter code for APIs](https://www.programmableweb.com/sdk/)
+      
+      
 
 
 
