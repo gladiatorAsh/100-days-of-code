@@ -544,6 +544,20 @@
       5. [Learn to write node modules](https://github.com/ralucas/node-zillow)
       6. [Get starter code for APIs](https://www.programmableweb.com/sdk/)
       
+  ### Day 38: Sep 14, 2018
+      1. Complete Object oriented JavaScript course on Udacity
+      2. Get started on learning react
+      3. Have various calls
+      4. Prep for startup event
+      5. Revise DP and trees
+      6. Solve 10 examples on Leetcode
+      7. Analyze 5 examples on page
+      8. Get a grip on PriorityQueue and MinHeap
+      9. Complete Java course 
+      10. Add animations for Starbucks code and add a link to web
+      11. Read on Angular philosophy and whether Angular 1 and higher versions can be used together
+      12. Datatables.js with Angular
+      13. Wash laundry
       
 
 
