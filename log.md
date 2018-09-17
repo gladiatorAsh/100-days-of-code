@@ -559,6 +559,11 @@
       12. Datatables.js with Angular
       13. Wash laundry
       
-
+### Day 39: Sep 17, 2018
+      1. https://www.onlinequizcreator.com/my-dashboard/item3239 Creating Java quizzes on the platform
+      2. https://www.javatpoint.com/result.jsp Java Quizzes Repo
+      3. JS test
+      4. DateTime is a struct in C#. There are no structs in Java
+      5. Spoke about C# position.
 
 
