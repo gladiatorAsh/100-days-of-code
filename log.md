@@ -566,4 +566,25 @@
       4. DateTime is a struct in C#. There are no structs in Java
       5. Spoke about C# position.
 
+### Day 40: Sep 18, 2018
+      1. Top K Frequent Elements by TreeMap and PriorityQueue
+      2. Revision of algorithms
+      3. Google Protobuff, Netty usage
+      4. Executor service and Futures in Java
+      5. Waiting on result set of different threads to combine and generate output
+      6. Microservices vs monolithic web service
+      7. Difference between Java and JavaScript
+      8. Advantage of Redis over other no SQL databases
+      9. Weak Reference, Strong Reference
+      10. String behavior as pass by value in Java
+      11. String.Interned property in Java
+      12. Annotations class in Java
+      13. Usage of factory class, strategy pattern, decorator pattern
 
+### Day 41: Sep 19, 2018
+      1. Objected Oriented JS course
+      2. Give JS test
+      3. Write Java notes
+      4. Complete watching map and filter in JS - https://www.youtube.com/watch?v=D0FzqTWedM0
+      5. Subset problem, DP book
+      
