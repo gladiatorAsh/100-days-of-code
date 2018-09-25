@@ -588,3 +588,17 @@
       4. Complete watching map and filter in JS - https://www.youtube.com/watch?v=D0FzqTWedM0
       5. Subset problem, DP book
       
+### Day 42: Sep 23, 2018
+### Day 43: Sep 24, 2018
+### Day 44: Sep 25, 2018
+      1. Reading on XSS, Session Hijacking and CSRF attacks
+            a. http://www.infosecisland.com/blogview/23452-OWASP-Vulnerability-Deep-Dive-CSRF.html
+            b. https://stackoverflow.com/questions/5045765/tricky-question-for-good-understanding-of-csrf
+            c. http://motilia.com/en/-/session-hijacking-xss-and-csrf
+      2. Filling up excel with all important leetcode questions for revision
+      3. Revise Java advanced and basics 
+      4. Practise writing code in JavaScript
+      5. Prepare a backend in Spring Boot
+      6. Prepare a frontend in Angular
+      
+      
