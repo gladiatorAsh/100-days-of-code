@@ -601,4 +601,8 @@
       5. Prepare a backend in Spring Boot
       6. Prepare a frontend in Angular
       
+### Day 45: Oct 15,2018
+      1. [Excellent coding resource](https://www.byte-by-byte.com/interviewing-resources/)
+      2. [Practising InterviewCake](https://www.interviewcake.com/table-of-contents)
+      
       
